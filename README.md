@@ -9,7 +9,8 @@ I also enjoy designing distributed architectures, working with databases at scal
 ⸻
 
 # Tools & Tech
-  •	Languages: Python, Java, JavaScript, TypeScript, C++
+
+ •	Languages: Python, Java, JavaScript, TypeScript, C++
 	•	Frontend: React, Next.js, HTML, CSS, TailwindCSS
 	•	Backend: Node.js, FastAPI, Django, REST APIs, GraphQL
 	•	Databases: PostgreSQL, MySQL, SQLite, Sharded Clusters

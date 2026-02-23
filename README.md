@@ -10,11 +10,13 @@ I also enjoy **UI/UX design**, experimenting with **Figma**, and creating projec
 
 ## Tools & Tech
 
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Python, Django, Flask, REST APIs  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **AI & ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenAI APIs  
-- **Other:** Git, GitHub, Docker, Figma  
+    •	Languages: Python, Java, JavaScript, TypeScript, C++
+	•	Frontend: React, Next.js, HTML, CSS, TailwindCSS
+	•	Backend: Node.js, FastAPI, Django, REST APIs, GraphQL
+	•	Databases: PostgreSQL, MySQL, SQLite
+	•	Cloud & DevOps: AWS (EC2, S3, CloudWatch), Azure, Google Cloud, Docker, CI/CD
+	•	AI & Data: TensorFlow, PyTorch, Scikit-learn, Pandas, OpenAI APIs, Streamlit
+	•	Other: Git, GitHub, OAuth 2.0, Identity & Access Management
 
 ---
 

@@ -8,20 +8,41 @@ I also enjoy designing distributed architectures, working with databases at scal
 
 
 
-# Tools & Tech
+## ⚙️ Tech Stack
 
- • Languages: Python, Java, JavaScript, TypeScript, C++.
- 	•	Frontend: React, Next.js, HTML, CSS, TailwindCSS.
-	
-	•	Backend: Node.js, FastAPI, Django, REST APIs, GraphQL.
-	
-	•	Databases: PostgreSQL, MySQL, SQLite, Sharded Clusters.
-	
-	•	Cloud & DevOps: AWS (EC2, S3, CloudWatch), Microsoft Azure, Google Cloud, Docker, CI/CD (GitHub Actions).
-	
-	•	AI & ML: Python, TensorFlow, PyTorch, Scikit-learn, Pandas, Streamlit, OpenAI APIs.
-	
-	•	Security & Systems: OAuth 2.0, Identity & Access Management (AuthN/AuthZ), DNS. 
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Sharding](https://img.shields.io/badge/Sharding-FF6F00?style=flat&logo=databricks&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### 🤖 AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+### 🔐 Security & Systems
+![OAuth 2.0](https://img.shields.io/badge/OAuth2-3C3C3C?style=flat&logo=oauth&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0052CC?style=flat&logo=cloudflare&logoColor=white)
 	
 
 A Bit About Me
